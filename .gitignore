@@ -1,0 +1,30 @@
+.env
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Rust
+target/
+
+# Go
+bin/
+*.test
+
+# Runtime storage
+storage/
+backend/storage/
+backups/
+database/local-postgres-data/
+database/local-postgres*.log
+backend/backend*.log
+
+# Node / frontend later
+node_modules/
+dist/
+.vite/
+.expo/
+mobile/.expo/
+
+# IDE
+.idea/
+.vscode/

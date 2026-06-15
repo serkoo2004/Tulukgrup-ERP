@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Tuluklar ERP",
+    "slug": "tuluklar-erp-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#111827"
+      }
+    },
+    "extra": {
+      "apiBaseUrl": "http://127.0.0.1:8080"
+    }
+  }
+}

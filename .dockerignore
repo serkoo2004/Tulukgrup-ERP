@@ -1,0 +1,12 @@
+.env
+.git
+.gitignore
+**/target
+**/bin
+**/node_modules
+storage
+backend/storage
+backups
+database/local-postgres-data
+database/local-postgres*.log
+backend/backend*.log
