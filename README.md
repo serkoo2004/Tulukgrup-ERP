@@ -1,4 +1,4 @@
-# Tuluklar Group ERP
+# enterprise-erp-platform
 
 Bu proje, `erp_teknoloji_stack_raporu (2).pdf` dosyasindaki mimariye gore baslatildi.
 
